@@ -383,7 +383,7 @@ function HomeTab({
           <span className="text-gray-400 text-sm">Tìm kiếm món ăn</span>
         </div>
         <div className="w-8 h-8 rounded-full bg-[#078282] flex items-center justify-center">
-          <span className="text-white font-bold text-sm">G</span>
+          <span className="text-white font-bold text-sm">N</span>
         </div>
         <div className="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center text-lg">👤</div>
       </div>
@@ -441,7 +441,7 @@ function HomeTab({
               <Leaf size={18} className="text-white" />
             </div>
             <div className="flex-1 text-left">
-              <p className="text-yellow-300 text-[9px] font-bold uppercase tracking-wider">🕘 Rescue · Sau 21:00</p>
+              <p className="text-yellow-300 text-[9px] font-bold uppercase tracking-wider">Rescue · Sau 21:00</p>
               <p className="text-white font-bold text-[13px] leading-tight">Đồ ăn ngon, giảm đến 67%</p>
               <p className="text-cyan-100 text-[10px]">Đặt trước khi cửa hàng đóng cửa</p>
             </div>
