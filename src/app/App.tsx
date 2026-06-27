@@ -816,7 +816,7 @@ function FoodRescueEventScreen({
 
                     <div className="mt-1">
                       <span className="bg-cyan-50 text-[#078282] border border-cyan-200/50 text-[8px] font-bold px-1.5 py-0.5 rounded-md inline-block">
-                        🌻FoodRescue Partner
+                        FoodRescue Partner
                       </span>
                     </div>
 
