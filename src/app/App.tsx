@@ -796,7 +796,7 @@ function FoodRescueEventScreen({
                     </div>
 
                     <p className="text-[8.5px] text-gray-400 mt-0.5 truncate">
-                      ⭐ {merchant.rating} ({merchant.reviewsCount}) • {merchant.cuisines.join(", ")}
+                       {merchant.rating} ({merchant.reviewsCount}) • {merchant.cuisines.join(", ")}
                     </p>
 
                     <p className="text-[8.5px] text-gray-500 mt-1 flex items-center gap-0.5">
